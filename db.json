@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juanact",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "gsdg",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Esteban",
+      "telefono": 102013313,
+      "email": "esteban@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Gustavo",
+      "telefono": 102013313,
+      "email": "gustavo@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Hernan",
+      "telefono": 102013313,
+      "email": "hernan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Netflix",
+      "empresa": "sgsd",
+      "email": "sdgsd@gmail.com",
+      "telefono": "35235",
+      "notas": "sdgsdg",
+      "id": 6
+    }
+  ]
+}
